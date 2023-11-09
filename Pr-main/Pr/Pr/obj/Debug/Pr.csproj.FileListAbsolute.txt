@@ -1,0 +1,10 @@
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\bin\Debug\Pr.exe.config
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\bin\Debug\Pr.exe
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\bin\Debug\Pr.pdb
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.csproj.AssemblyReference.cache
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.Form1.resources
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.Properties.Resources.resources
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.csproj.GenerateResource.cache
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.exe
+C:\Users\Nikolai\Documents\Downloads\Pr-main\Pr\Pr\obj\Debug\Pr.pdb
